@@ -1,10 +1,8 @@
 package school.mjc.stage0.loops.task2;
 
-import java.io.PrintStream;
-
 public class PowerOfTwo {
     public void printPower(int power) {
-        int i = 1;
+        int i = 0;
         while (i<=power){
             int j=1;
             int result=1;
